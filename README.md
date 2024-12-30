@@ -8,6 +8,10 @@ Next to the solutions, I also blogged about my experience, which can be found [h
 
 ## Extra notes on some days
 
+
+### Day 3
+No solution for day 3 as I did not want to learn how to parse XML in SQL. I do not see a real-world usecase for persisting xml blobs so skipped this day.
+
 ### Day17
 
 This day I think the data was wrong. There is an entry for New york timezone which results in no solution possible.
